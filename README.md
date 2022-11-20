@@ -385,8 +385,10 @@ public class MyCursorAdapter extends SimpleCursorAdapter {
             android:label="ChangeColor"
             android:windowSoftInputMode="stateVisible"/>
 4.8图片展示
-![9V54{R6{1}JQX0QGAUV~G Q](https://user-images.githubusercontent.com/114241292/202895666-6b10b32c-2dea-44ba-8d1e-38cd7492a3ee.png)
-![SL{J9H%S_`G82NS08YA{%{T](https://user-images.githubusercontent.com/114241292/202895677-527e7a70-3dbc-4991-9d8d-33b817c5bccd.png)
+![9V54{R6{1}JQX0QGAUV~G Q](https://user-images.githubusercontent.com/114241292/202895805-4434623f-948f-438a-87c2-37b23ad2740f.png)
+
+![SL{J9H%S_`G82NS08YA{%{T](https://user-images.githubusercontent.com/114241292/202895811-2f1c0cc1-4a22-4493-8c17-0812e891623b.png)
+
 
 
 
